@@ -88,6 +88,7 @@
 				D0667EBD18D335A8008B825F /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		D0667EBD18D335A8008B825F /* Products */ = {
 			isa = PBXGroup;
@@ -379,6 +380,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "firstApp/firstApp-Prefix.pch";
 				INFOPLIST_FILE = "firstApp/firstApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -392,6 +394,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "firstApp/firstApp-Prefix.pch";
 				INFOPLIST_FILE = "firstApp/firstApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
